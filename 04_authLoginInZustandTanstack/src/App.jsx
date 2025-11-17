@@ -13,6 +13,9 @@ function App() {
 
     {/* <Login/> */}
     <Dashboard/>
+    <div>
+      StateManagement
+    </div>
     </>
   )
 }
