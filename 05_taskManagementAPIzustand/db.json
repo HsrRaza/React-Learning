@@ -1,0 +1,7 @@
+{
+  "tasks": [
+    { "id": 1, "title": "Learn Zustand", "status": "todo" },
+    { "id": 2, "title": "Build API Project", "status": "progress" }
+  ],
+  "users": []
+}
